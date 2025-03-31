@@ -31,7 +31,7 @@
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuzai.akira@gmail.com)
   
   *"
-Hi, I'm Akira, a geek developer with a deep-seated curiosity for exploring new technologies and frameworks. and teaching what I've learned.Hi, I'm Akira, a geek developer with a deep-seated curiosity for exploring new technologies and frameworks. and teaching what I've learned.
+a geek developer with a deep-seated curiosity for exploring new technologies and frameworks. and teaching what I've learned.Hi, I'm Akira, a geek developer with a deep-seated curiosity for exploring new technologies and frameworks. and teaching what I've learned.
 "*
 
 ## 🔮 What Drives Me
