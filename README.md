@@ -13,7 +13,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/banner.png" width="25%" align="right" />
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=00FF41&center=true&width=435&lines=Akira+%7C+Passionate+Developer+%F0%9F%9A%80;Tech+Explorer+%F0%9F%94%8D;Knowledge+Sharer+%F0%9F%93%9A" width="70%" />
-    <br><br>
+    <br><br><br><br>
     <pre>
         💼 Back-end dev • Blockchain dev • Platform Engineer
         💻 System programming languages 
@@ -54,11 +54,11 @@ Hi, I'm Akira, a geek developer with a deep-seated curiosity for exploring new t
 
 ## 🌟 My Github Status
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzaiakira&theme=material_palenight" alt="Profile details" style="width: 100%;"/>
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuzaiakira&theme=material_palenight" alt="Top languages used in repository" width="50%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzaiakira&theme=material_palenight" alt="Top languages in commits" width="50%"/>
-</div>
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzaiakira&theme=material_palenight)
+
+![Top languages used in repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuzaiakira&theme=material_palenight)
+![Top languages in commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzaiakira&theme=material_palenight)
+
 
 
 ## 🛠️ Languages and Tools
