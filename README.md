@@ -66,6 +66,6 @@ a geek developer with a deep-seated curiosity for exploring new technologies and
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,git,github,kubernetes,docker,c,cpp,cs,dart,flutter,androidstudio,gradle,clion,cmake,vim,bash,linux,arduino,css,sass,bootstrap,tailwind,babel,angular,bun,jquery,react,vue,cloudflare,py,django,flask,fastapi,postman,anaconda,graphql,mysql,sqlite,redis,postgres,nginx,java,kotlin,js,ts,p5js,nodejs,go,php,laravel,figma,godot,latex,opencv,qt,rabbitmq,selenium,solidity,vscode,discord,linkedin" />
+    <img src="https://skillicons.dev/icons?i=wordpress,git,github,kubernetes,docker,c,cpp,dart,androidstudio,cmake,vim,bash,linux,arduino,bootstrap,tailwind,babel,angular,jquery,react,cloudflare,py,django,flask,fastapi,postman,graphql,mysql,sqlite,redis,postgres,nginx,java,kotlin,js,ts,p5js,nodejs,go,php,laravel,godot,latex,opencv,qt,rabbitmq,selenium,solidity,vscode,discord,linkedin" />
   </a>
 </p>
