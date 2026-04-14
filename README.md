@@ -26,7 +26,7 @@
 ## 👋 Hey, I'm Akira
 **Backend & Blockchain Developer**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akira-yuzai/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuzai-akira/)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Akira_Yuzai)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuzai.akira@gmail.com)
   
@@ -49,7 +49,7 @@ a geek developer with a deep-seated curiosity for exploring new technologies and
 
 ## 📫 Collab on Something Weird
 - **📧 Email:** yuzai.akira@gmail.com
-- **🔵 LinkedIn:** [akira yuzai](https://www.linkedin.com/in/akira-yuzai/)
+- **🔵 LinkedIn:** [akira yuzai](https://www.linkedin.com/in/yuzai-akira/)
 - **📡 Telegram:** [@Akira_Yuzai](https://t.me/Akira_Yuzai)
 
 ## 🌟 My Github Status
