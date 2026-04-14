@@ -49,7 +49,7 @@ a geek developer with a deep-seated curiosity for exploring new technologies and
 
 ## 📫 Collab on Something Weird
 - **📧 Email:** yuzai.akira@gmail.com
-- **🔵 LinkedIn:** [akira yuzai](https://www.linkedin.com/in/yuzai-akira/)
+- **🔵 LinkedIn:** [yuzai-akira](https://www.linkedin.com/in/yuzai-akira/)
 - **📡 Telegram:** [@Akira_Yuzai](https://t.me/Akira_Yuzai)
 
 ## 🌟 My Github Status
