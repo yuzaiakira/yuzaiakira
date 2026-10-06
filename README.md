@@ -110,28 +110,6 @@ Creating tools that solve real problems, automate repetitive work and make softw
 
 ---
 
-### 🤖 [LLM Website Generator](https://github.com/yuzaiakira/LLM-Website-Generator)
-
-An AI-powered website generator that transforms natural-language prompts into responsive and customizable web templates.
-
-**Focus:**  
-`LLM` `Generative AI` `Web Development` `Prompt Engineering`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🔎 Explore more
-
-<a href="https://github.com/yuzaiakira?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
 
 ## 🧰 Languages & Technologies
 
