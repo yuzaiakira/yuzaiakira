@@ -39,7 +39,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/github-banner.png" width="240" align="right" />
+<img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/github-banner-akira.png" width="240" align="right" />
 
 I'm **Akira**, a Software Engineer who enjoys building software across different layers of the stack — from backend services and developer tools to AI-powered applications and decentralized systems.
 
