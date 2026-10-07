@@ -39,7 +39,9 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/github-banner-akira.png" width="320" align="right" />
+<table>
+<tr>
+<td width="65%" valign="middle">
 
 I'm **Akira**, a Software Engineer who enjoys building software across different layers of the stack — from backend services and developer tools to AI-powered applications and decentralized systems.
 
@@ -51,7 +53,18 @@ My main interests revolve around:
 **⚙️ Backend Engineering** · **🧠 AI & LLMs** · **⛓️ Blockchain**  
 **🏗️ Software Architecture** · **🌐 Distributed Systems** · **🐧 Systems Programming**
 
-<br clear="right"/>
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/github-banner-akira.png"
+  width="320"
+/>
+
+</td>
+</tr>
+</table>
 
 > **I don't define myself by a single framework.**  
 > I care about understanding how systems work, choosing the right tools, and building software that is useful, maintainable, and easy to reason about.
