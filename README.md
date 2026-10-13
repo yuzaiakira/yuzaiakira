@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akira Yuzai</h1>
+<h1 align="center">Hi 👋, I'm Akira Yuzai <img src="https://komarev.com/ghpvc/?username=yuzaiakira&label=Profile%20Views&color=00aa55&style=flat" alt="Profile Views" />
+</h1> 
 
 <h3 align="center">Software Engineer · Backend Systems · AI/LLM · Blockchain</h3>
 
@@ -31,7 +32,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yuzaiakira&label=Profile%20Views&color=00aa55&style=flat" alt="Profile Views" />
 
 </div>
 
