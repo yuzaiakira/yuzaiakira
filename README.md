@@ -233,3 +233,5 @@ I'm always interested in talking about **software engineering, open source, AI, 
 <sub>Always curious about what happens one abstraction layer deeper.</sub>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/akira-end-banner.png" >
