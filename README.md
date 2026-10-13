@@ -17,16 +17,19 @@
 <br>
 
 <a href="https://www.linkedin.com/in/yuzai-akira/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/linkedin.png" alt="LinkedIn" width="280" />
 </a>
 <a href="https://t.me/Akira_Yuzai">
-  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/telegram-message.png" alt="Message on Telegram" width="280" />
+</a>
+<a href="https://t.me/yuzaiakira">
+  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/telegram-channel.png" alt="Telegram Channel" width="280" />
 </a>
 <a href="mailto:yuzai.akira@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/email.png" alt="Email" width="280" />
 </a>
 <a href="https://yuzaiakira.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/Portfolio.png" alt="Portfolio" width="280" />
 </a>
 
 <br><br>
