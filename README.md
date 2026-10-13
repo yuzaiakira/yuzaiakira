@@ -18,16 +18,16 @@
 <br>
 
 <a href="https://www.linkedin.com/in/yuzai-akira/">
-  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/linkedin.png" alt="LinkedIn" width="200" />
+  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/linkedin-v1.png" alt="LinkedIn" width="200" />
 </a>
 <a href="https://t.me/yuzaiakira">
-  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/telegram-channel.png" alt="Telegram Channel" width="200" />
+  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/telegram-channel-v1.png" alt="Telegram Channel" width="200" />
 </a>
 <a href="mailto:yuzai.akira@gmail.com">
-  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/email.png" alt="Email" width="200" />
+  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/email-v1.png" alt="Email" width="200" />
 </a>
 <a href="https://yuzaiakira.github.io/">
-  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/Portfolio.png" alt="Portfolio" width="200" />
+  <img src="https://raw.githubusercontent.com/yuzaiakira/yuzaiakira/main/assets/icon/Portfolio-v1.png" alt="Portfolio" width="200" />
 </a>
 
 <br><br>
